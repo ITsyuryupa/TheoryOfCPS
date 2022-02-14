@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "x^12(3 way)", "x^12(3 way)\x^12(3 way).csproj", "{9060166F-75A3-4BD3-8B5A-AD4DACF548CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinArDeletN", "DinArDeletN\DinArDeletN.csproj", "{C6DB7840-41E7-47C7-8394-3DE9E0CD7C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9060166F-75A3-4BD3-8B5A-AD4DACF548CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9060166F-75A3-4BD3-8B5A-AD4DACF548CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9060166F-75A3-4BD3-8B5A-AD4DACF548CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9060166F-75A3-4BD3-8B5A-AD4DACF548CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DB7840-41E7-47C7-8394-3DE9E0CD7C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DB7840-41E7-47C7-8394-3DE9E0CD7C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DB7840-41E7-47C7-8394-3DE9E0CD7C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DB7840-41E7-47C7-8394-3DE9E0CD7C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E24F994-3869-44AD-9FE6-930ED274B4DB}
+	EndGlobalSection
+EndGlobal
