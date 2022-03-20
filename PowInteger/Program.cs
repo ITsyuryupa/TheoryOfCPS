@@ -19,7 +19,7 @@ double RaisingRecBit(double x, double degree)
 
 
 string s = " ";
-while (s != "")
+while (s != "1")
 {
     Console.Write("x = ");
     double x = double.Parse(Console.ReadLine());
@@ -36,7 +36,7 @@ while (s != "")
         Console.WriteLine(1 / RaisingRecBit(x, degree));
     }
 
-    Console.Write("для выхода нажмите enter");
+    Console.Write("для выхода введите 1");
     s = Console.ReadLine();
 }
 

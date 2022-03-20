@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "x^12(3 way)", "x^12(3 way)\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinArDeletN", "DinArDeletN\DinArDeletN.csproj", "{C6DB7840-41E7-47C7-8394-3DE9E0CD7C7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowInteger", "PowInteger\PowInteger.csproj", "{DE1F83D9-4C9C-4D36-BE11-42B53F12F57B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowInteger", "PowInteger\PowInteger.csproj", "{DE1F83D9-4C9C-4D36-BE11-42B53F12F57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{1809DA95-074D-4CC5-96AC-51594C52B581}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DE1F83D9-4C9C-4D36-BE11-42B53F12F57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE1F83D9-4C9C-4D36-BE11-42B53F12F57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE1F83D9-4C9C-4D36-BE11-42B53F12F57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1809DA95-074D-4CC5-96AC-51594C52B581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1809DA95-074D-4CC5-96AC-51594C52B581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1809DA95-074D-4CC5-96AC-51594C52B581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1809DA95-074D-4CC5-96AC-51594C52B581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
